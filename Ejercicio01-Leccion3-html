@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 01 - Leccion 3</title>
+    </head>
+    <sour>
+        <!--PRIMERA SECCION-->
+        <h1>Aprendiendo a utilizar imagenes</h1>
+        <img src="https://image.api.playstation.com/cdn/EP8941/CUSA07527_00/1ctKqm7qNbvS539Uzea6wIhPCp8Fsp32.png" alt="Imagen Senua" width="300" height="300" > 
+        <!--SEGUNDA SECCION-->
+        <h1>Aprendiendo a utilizar Videos</h1>
+        <video src="M3 - Multimedia/Video/Senuasaga.mp4" width="300" height="300" autoplay controls muted loop></video>
+        <!--TERCERA SECCION-->
+        <h1>Aprendiendo a utilizar los Audio</h1>
+        <audio src="M3 - Multimedia/Audio/soldado.mp3" controls autoplay loop></audio>
+    </body>
+</html>
